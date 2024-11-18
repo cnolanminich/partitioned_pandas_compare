@@ -1,0 +1,6 @@
+as_of_date,primary_key,numeric_column_1, numeric_column_2, string_column_1, string_column_2
+2024-11-14,2,60,5068,customer_b,MD
+2024-11-14,3,49,240,customer_c,WA
+2024-11-14,4,19,239,customer_b,PA
+2024-11-14,5,0,239,customer_b,NY
+2024-11-14,1,15,119,customer_a,PA

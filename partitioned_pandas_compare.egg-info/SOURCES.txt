@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+partitioned_pandas_compare/__init__.py
+partitioned_pandas_compare/assets.py
+partitioned_pandas_compare/definitions.py
+partitioned_pandas_compare.egg-info/PKG-INFO
+partitioned_pandas_compare.egg-info/SOURCES.txt
+partitioned_pandas_compare.egg-info/dependency_links.txt
+partitioned_pandas_compare.egg-info/requires.txt
+partitioned_pandas_compare.egg-info/top_level.txt

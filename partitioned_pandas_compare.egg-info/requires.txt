@@ -1,0 +1,9 @@
+dagster
+dagster-cloud
+dagster-pandas
+pandas
+dagster-duckdb-pandas
+
+[dev]
+dagster-webserver
+pytest
